@@ -5,6 +5,14 @@ An experimental study comparing different **feature extraction methods** (SIFT, 
 ## 📋 Overview
 
 This project is part of the **CS231 - Computer Vision** course, exploring and comparing various feature extraction techniques for image classification:
+## 👥 Team Members
+
+| Name | Student ID | Role |
+|------|------------|------|
+| **Lương Quang Duy** | 23520368 | 
+| **Trần Minh Nhất** | 23521101 |
+| **Dương Thái Ý Nhi** |23521106 | 
+
 
 | Method | Feature Type |
 |--------|--------------|
