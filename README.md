@@ -13,7 +13,7 @@ This project is part of the **CS231 - Computer Vision** course, exploring and co
 | **Trần Minh Nhất** | 23521101 |
 | **Dương Thái Ý Nhi** |23521106 | 
 
-
+## 🌟Methods
 | Method | Feature Type |
 |--------|--------------|
 | **SIFT** | Handcrafted (keypoints)|
